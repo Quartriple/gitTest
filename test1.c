@@ -1,6 +1,6 @@
 #include <stdio.h>
 
 int main(){
-	float f;
+	char c = 65;
 	return 0;
 }
